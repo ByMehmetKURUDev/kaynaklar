@@ -500,7 +500,7 @@ React ve D3 üzerine kurulu Recharts; çizgi, sütun, alan ve pasta grafiklerini
 
 Webflow desteğiyle tüm eklentileri dahil ücretsiz olan GSAP; ScrollTrigger ile kaydırma animasyonları, SplitText ve SVG efektleri için profesyonel standart.
 
-- Proje: [greensock/GSAP](https://github.com/greensock/GSAP) · Lisans: GSAP Standard License (ücretsiz, ticari kullanıma açık) · Ücretsiz
+- Proje: [greensock/GSAP](https://github.com/greensock/GSAP) · Lisans: [object Object] · Ücretsiz
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/gsap/](https://mehmetkuru.dev/kaynaklar/gsap/)
 
 <a id="lenis"></a>
@@ -666,7 +666,7 @@ GIMP, Blender ve LibreOffice gibi yazılımlar için ajanların kullanabileceği
 
 Intercom ve Zendesk'e açık kaynak alternatif Chatwoot; WhatsApp, Instagram, Facebook, e-posta ve site sohbetini kendi sunucunuzda tek gelen kutusunda toplar.
 
-- Proje: [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) · Lisans: MIT (enterprise/ klasörü hariç) · Ücretsiz · Açık kaynak
+- Proje: [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) · Lisans: [object Object] · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/chatwoot/](https://mehmetkuru.dev/kaynaklar/chatwoot/)
 
 <a id="coolify"></a>
@@ -684,7 +684,7 @@ Açık kaynak Coolify; kendi VPS'inizde uygulama, veritabanı ve 300'ü aşkın 
 
 Açık kaynak Dokploy; Node.js, PHP, Python uygulamalarını ve MySQL, PostgreSQL gibi veritabanlarını kendi VPS'inizde yayınlar, otomatik yedekler ve izler.
 
-- Proje: [dokploy/dokploy](https://github.com/dokploy/dokploy) · Lisans: Apache-2.0 (/proprietary klasörü hariç) · Ücretsiz · Açık kaynak
+- Proje: [dokploy/dokploy](https://github.com/dokploy/dokploy) · Lisans: [object Object] · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/dokploy/](https://mehmetkuru.dev/kaynaklar/dokploy/)
 
 <a id="grafana"></a>
@@ -747,7 +747,7 @@ MIT lisanslı Payload; Next.js uygulamasının içine kurulan headless CMS ve uy
 
 Açık kaynak Strapi; içerik modellerini panelden kurar ve REST API üretir. React, Vue ya da mobil uygulama fark etmeksizin tüm ön yüzlere içerik sağlar.
 
-- Proje: [strapi/strapi](https://github.com/strapi/strapi) · Lisans: MIT (ee/ klasörü hariç) · Ücretsiz · Açık kaynak
+- Proje: [strapi/strapi](https://github.com/strapi/strapi) · Lisans: [object Object] · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/strapi/](https://mehmetkuru.dev/kaynaklar/strapi/)
 
 <a id="filament"></a>
@@ -774,7 +774,7 @@ Veri ağırlıklı yönetim panellerini ve dahili araçları hızla kurmak için
 
 Salesforce'a açık kaynak alternatif Twenty; kişi, şirket ve fırsatları yönetir, e-posta ve takvimi eşitler, iş akışları ve API ile genişletilebilir.
 
-- Proje: [twentyhq/twenty](https://github.com/twentyhq/twenty) · Lisans: AGPL-3.0 (Enterprise işaretli dosyalar hariç) · Ücretsiz · Açık kaynak
+- Proje: [twentyhq/twenty](https://github.com/twentyhq/twenty) · Lisans: [object Object] · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/twenty-crm/](https://mehmetkuru.dev/kaynaklar/twenty-crm/)
 
 <a id="signoz"></a>
@@ -783,7 +783,7 @@ Salesforce'a açık kaynak alternatif Twenty; kişi, şirket ve fırsatları yö
 
 OpenTelemetry tabanlı açık kaynak SigNoz; uygulama performansını, logları, istek izlerini, hataları ve LLM maliyetlerini tek ekranda izler, uyarı gönderir.
 
-- Proje: [SigNoz/signoz](https://github.com/SigNoz/signoz) · Lisans: MIT (ee/ klasörü hariç) · Ücretsiz · Açık kaynak
+- Proje: [SigNoz/signoz](https://github.com/SigNoz/signoz) · Lisans: [object Object] · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/signoz/](https://mehmetkuru.dev/kaynaklar/signoz/)
 
 <a id="singlefile"></a>
@@ -819,7 +819,7 @@ Açık kaynak Kestra; YAML ya da kodsuz editörle yazılan iş akışlarını za
 
 Formdan CRM'e, e-postadan tabloya akışları sürükle-bırak kurar; 1500'ü aşkın entegrasyon ve yapay zekâ ajanı düğümleriyle kendi sunucunuzda çalışır.
 
-- Proje: [n8n-io/n8n](https://github.com/n8n-io/n8n) · Lisans: Sustainable Use License (fair-code; .ee dosyaları hariç) · Ücretsiz
+- Proje: [n8n-io/n8n](https://github.com/n8n-io/n8n) · Lisans: [object Object] · Ücretsiz
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/n8n/](https://mehmetkuru.dev/kaynaklar/n8n/)
 
 <a id="appsmith"></a>
@@ -828,7 +828,7 @@ Formdan CRM'e, e-postadan tabloya akışları sürükle-bırak kurar; 1500'ü a�
 
 Tablo, form ve grafik bileşenlerini veritabanına ya da API'ye bağlayarak sipariş, stok ve müşteri panelleri kurar; Docker ile kendi sunucunuzda çalışır.
 
-- Proje: [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) · Lisans: Apache-2.0 (Community sürümü) · Ücretsiz · Açık kaynak
+- Proje: [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) · Lisans: [object Object] · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/appsmith/](https://mehmetkuru.dev/kaynaklar/appsmith/)
 
 <a id="devtoys"></a>
@@ -976,7 +976,7 @@ free-for-dev; bulut, barındırma, e-posta, CI/CD, izleme ve CMS gibi alanlarda 
 
 Her yapay zekâ sohbet aracında işe yarayan topluluk istemleri, ücretsiz etkileşimli istem kitabı, Claude Code eklentisi ve kendi kurabileceğiniz kütüphane.
 
-- Proje: [f/prompts.chat](https://github.com/f/prompts.chat) · Lisans: MIT (kod) / CC0-1.0 (istemler) · Ücretsiz · Açık kaynak
+- Proje: [f/prompts.chat](https://github.com/f/prompts.chat) · Lisans: [object Object] · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/prompts-chat/](https://mehmetkuru.dev/kaynaklar/prompts-chat/)
 
 <a id="ai-engineering-from-scratch"></a>
@@ -992,4 +992,4 @@ Her yapay zekâ sohbet aracında işe yarayan topluluk istemleri, ücretsiz etki
 
 Bu depo yalnız bağlantı ve kısa özet içerir. Projeler kendi sahiplerine aittir ve kendi lisanslarıyla dağıtılır. Liste her gün mehmetkuru.dev verisinden otomatik güncellenir.
 
-Son veri güncellemesi: 2026-10-06 · [github.com/ByMehmetKURUDev/kaynaklar](https://github.com/ByMehmetKURUDev/kaynaklar)
+Son veri güncellemesi: 2026-11-01 · [github.com/ByMehmetKURUDev/kaynaklar](https://github.com/ByMehmetKURUDev/kaynaklar)

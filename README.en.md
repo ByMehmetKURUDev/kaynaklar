@@ -500,7 +500,7 @@ Built on React and D3, Recharts lets you write line, bar, area and pie charts as
 
 Now free with all plugins thanks to Webflow, GSAP is the pro standard for scroll animations with ScrollTrigger, SplitText and SVG effects.
 
-- Project: [greensock/GSAP](https://github.com/greensock/GSAP) · License: GSAP Standard License (ücretsiz, ticari kullanıma açık) · Free
+- Project: [greensock/GSAP](https://github.com/greensock/GSAP) · License: [object Object] · Free
 - Guide: [mehmetkuru.dev/en/kaynaklar/gsap/](https://mehmetkuru.dev/en/kaynaklar/gsap/)
 
 <a id="lenis"></a>
@@ -666,7 +666,7 @@ Open-source project that generates agent-friendly command-line tools for softwar
 
 Chatwoot, an open-source Intercom and Zendesk alternative, gathers WhatsApp, Instagram, Facebook, email and site chat in one self-hosted inbox.
 
-- Project: [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) · License: MIT (enterprise/ klasörü hariç) · Free · Open source
+- Project: [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) · License: [object Object] · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/chatwoot/](https://mehmetkuru.dev/en/kaynaklar/chatwoot/)
 
 <a id="coolify"></a>
@@ -684,7 +684,7 @@ Open-source Coolify auto-deploys apps, databases and 300+ one-click services fro
 
 Open-source Dokploy deploys Node.js, PHP and Python apps plus databases like MySQL and PostgreSQL on your own VPS, with automatic backups and monitoring.
 
-- Project: [dokploy/dokploy](https://github.com/dokploy/dokploy) · License: Apache-2.0 (/proprietary klasörü hariç) · Free · Open source
+- Project: [dokploy/dokploy](https://github.com/dokploy/dokploy) · License: [object Object] · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/dokploy/](https://mehmetkuru.dev/en/kaynaklar/dokploy/)
 
 <a id="grafana"></a>
@@ -747,7 +747,7 @@ MIT-licensed Payload is a headless CMS and app framework that lives inside your 
 
 Open-source Strapi lets you build content models in an admin panel and generates a REST API, serving content to React, Vue or mobile apps alike.
 
-- Project: [strapi/strapi](https://github.com/strapi/strapi) · License: MIT (ee/ klasörü hariç) · Free · Open source
+- Project: [strapi/strapi](https://github.com/strapi/strapi) · License: [object Object] · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/strapi/](https://mehmetkuru.dev/en/kaynaklar/strapi/)
 
 <a id="filament"></a>
@@ -774,7 +774,7 @@ Open-source React framework for quickly building data-heavy admin panels and int
 
 Twenty, an open-source Salesforce alternative, manages contacts, companies and deals, syncs email and calendars, and extends with workflows and APIs.
 
-- Project: [twentyhq/twenty](https://github.com/twentyhq/twenty) · License: AGPL-3.0 (Enterprise işaretli dosyalar hariç) · Free · Open source
+- Project: [twentyhq/twenty](https://github.com/twentyhq/twenty) · License: [object Object] · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/twenty-crm/](https://mehmetkuru.dev/en/kaynaklar/twenty-crm/)
 
 <a id="signoz"></a>
@@ -783,7 +783,7 @@ Twenty, an open-source Salesforce alternative, manages contacts, companies and d
 
 Open-source SigNoz, built on OpenTelemetry, tracks app performance, logs, request traces, errors and LLM costs on one screen and sends alerts.
 
-- Project: [SigNoz/signoz](https://github.com/SigNoz/signoz) · License: MIT (ee/ klasörü hariç) · Free · Open source
+- Project: [SigNoz/signoz](https://github.com/SigNoz/signoz) · License: [object Object] · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/signoz/](https://mehmetkuru.dev/en/kaynaklar/signoz/)
 
 <a id="singlefile"></a>
@@ -819,7 +819,7 @@ Open-source Kestra runs workflows written in YAML or a no-code editor on schedul
 
 Build flows from forms to CRM or email to spreadsheets by drag and drop; 1,500+ integrations and AI agent nodes, running on your own server.
 
-- Project: [n8n-io/n8n](https://github.com/n8n-io/n8n) · License: Sustainable Use License (fair-code; .ee dosyaları hariç) · Free
+- Project: [n8n-io/n8n](https://github.com/n8n-io/n8n) · License: [object Object] · Free
 - Guide: [mehmetkuru.dev/en/kaynaklar/n8n/](https://mehmetkuru.dev/en/kaynaklar/n8n/)
 
 <a id="appsmith"></a>
@@ -828,7 +828,7 @@ Build flows from forms to CRM or email to spreadsheets by drag and drop; 1,500+ 
 
 Connects table, form and chart widgets to a database or API to build order, stock and customer panels; runs on your own server with Docker.
 
-- Project: [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) · License: Apache-2.0 (Community sürümü) · Free · Open source
+- Project: [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) · License: [object Object] · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/appsmith/](https://mehmetkuru.dev/en/kaynaklar/appsmith/)
 
 <a id="devtoys"></a>
@@ -976,7 +976,7 @@ free-for-dev lists hundreds of services with free tiers, organised by category: 
 
 Community prompts that work in any AI chat tool, a free interactive prompting book, a Claude Code plugin and a library you can host yourself.
 
-- Project: [f/prompts.chat](https://github.com/f/prompts.chat) · License: MIT (kod) / CC0-1.0 (istemler) · Free · Open source
+- Project: [f/prompts.chat](https://github.com/f/prompts.chat) · License: [object Object] · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/prompts-chat/](https://mehmetkuru.dev/en/kaynaklar/prompts-chat/)
 
 <a id="ai-engineering-from-scratch"></a>
@@ -992,4 +992,4 @@ More than 500 hands-on lessons in 20 phases; each produces a prompt, skill, agen
 
 This repository only contains links and short summaries. Each project belongs to its owners and is distributed under its own license. The list is updated daily from mehmetkuru.dev data.
 
-Data last updated: 2026-10-06 · [github.com/ByMehmetKURUDev/kaynaklar](https://github.com/ByMehmetKURUDev/kaynaklar)
+Data last updated: 2026-11-01 · [github.com/ByMehmetKURUDev/kaynaklar](https://github.com/ByMehmetKURUDev/kaynaklar)
