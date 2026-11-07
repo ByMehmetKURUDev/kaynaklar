@@ -26,6 +26,7 @@ Anthropic's official Claude skill examples: ready SKILL.md folders for design, t
 
 - Project: [anthropics/skills](https://github.com/anthropics/skills) · License: Apache-2.0 / source-available · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/anthropic-skills/](https://mehmetkuru.dev/en/kaynaklar/anthropic-skills/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/Uv_9-j3rO3Y)
 
 <a id="superpowers"></a>
 
@@ -35,6 +36,7 @@ An open-source set of Claude skills that turns your coding agent into a develope
 
 - Project: [obra/superpowers](https://github.com/obra/superpowers) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/superpowers/](https://mehmetkuru.dev/en/kaynaklar/superpowers/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/YPxNNHj0Uzw)
 
 <a id="planning-with-files"></a>
 
@@ -44,6 +46,7 @@ A Claude skill that writes your AI agent's plan, findings and progress to disk, 
 
 - Project: [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/planning-with-files/](https://mehmetkuru.dev/en/kaynaklar/planning-with-files/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/54qY7tDpkqs)
 
 <a id="gstack"></a>
 
@@ -53,6 +56,7 @@ Y Combinator CEO Garry Tan's open-source Claude Code setup: ready commands for p
 
 - Project: [garrytan/gstack](https://github.com/garrytan/gstack) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/gstack/](https://mehmetkuru.dev/en/kaynaklar/gstack/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/EHJ_eQ-Pyhk)
 
 <a id="everything-claude-code"></a>
 
@@ -62,6 +66,7 @@ Formerly Everything Claude Code: an open-source pack of skills, sub-agents, hook
 
 - Project: [affaan-m/ECC](https://github.com/affaan-m/ECC) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/everything-claude-code/](https://mehmetkuru.dev/en/kaynaklar/everything-claude-code/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/LSCjNe9TnXE)
 
 <a id="humanizer"></a>
 
@@ -71,6 +76,7 @@ A skill based on Wikipedia's 'Signs of AI writing' guide that strips formulaic p
 
 - Project: [blader/humanizer](https://github.com/blader/humanizer) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/humanizer/](https://mehmetkuru.dev/en/kaynaklar/humanizer/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/rATYWbwOlWY)
 
 <a id="prompt-master"></a>
 
@@ -80,6 +86,7 @@ Describe what you want in plain words and this skill writes a clear, ready-to-pa
 
 - Project: [nidhinjs/prompt-master](https://github.com/nidhinjs/prompt-master) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/prompt-master/](https://mehmetkuru.dev/en/kaynaklar/prompt-master/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/Z6SBbNVZy18)
 
 <a id="ponytail"></a>
 
@@ -89,6 +96,7 @@ An open-source skill that stops your coding agent from adding needless libraries
 
 - Project: [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/ponytail/](https://mehmetkuru.dev/en/kaynaklar/ponytail/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/fRObmGdqhbY)
 
 <a id="graphify"></a>
 
@@ -98,6 +106,7 @@ Open-source /graphify skill that turns a folder of code, PDFs, notes and screens
 
 - Project: [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) · License: Apache-2.0 · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/graphify/](https://mehmetkuru.dev/en/kaynaklar/graphify/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/xB1kIxyMFRU)
 
 <a id="find-skills"></a>
 
@@ -107,6 +116,7 @@ Vercel's open-source Find Skills searches the open skills ecosystem and installs
 
 - Project: [vercel-labs/skills](https://github.com/vercel-labs/skills/tree/main/skills/find-skills) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/find-skills/](https://mehmetkuru.dev/en/kaynaklar/find-skills/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/C6G3FzjPW2I)
 
 <a id="web-quality-skills"></a>
 
@@ -116,6 +126,7 @@ Addy Osmani's open-source skill pack lets your coding agent audit site speed, Co
 
 - Project: [addyosmani/web-quality-skills](https://github.com/addyosmani/web-quality-skills) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/web-quality-skills/](https://mehmetkuru.dev/en/kaynaklar/web-quality-skills/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/dI_hOQ7X5VU)
 
 <a id="gsd-core"></a>
 
@@ -154,6 +165,7 @@ Official Claude Cowork plugins that bundle skills, connectors and commands for r
 
 - Project: [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) · License: Apache-2.0 · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/knowledge-work-plugins/](https://mehmetkuru.dev/en/kaynaklar/knowledge-work-plugins/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/53Vnj4Y7h_0)
 
 <a id="claude-plugins-official"></a>
 
@@ -163,6 +175,7 @@ Anthropic-managed directory of Claude Code plugins: install Anthropic's own plug
 
 - Project: [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) · License: Apache-2.0 · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/claude-plugins-official/](https://mehmetkuru.dev/en/kaynaklar/claude-plugins-official/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/2eidbaj6ZTs)
 
 <a id="claude-for-small-business"></a>
 
@@ -181,6 +194,7 @@ Microsoft's open-source MarkItDown converts PDF, Word, PowerPoint, Excel, image 
 
 - Project: [microsoft/markitdown](https://github.com/microsoft/markitdown) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/markitdown/](https://mehmetkuru.dev/en/kaynaklar/markitdown/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/KvrMbtiqW-4)
 
 <a id="apify-mcp-server"></a>
 
@@ -190,6 +204,7 @@ Apify's official MCP server lets Claude extract data from social media, search e
 
 - Project: [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/apify-mcp-server/](https://mehmetkuru.dev/en/kaynaklar/apify-mcp-server/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/96LR6GuP-Oo)
 
 <a id="mcp-referans-sunuculari"></a>
 
@@ -199,6 +214,7 @@ Official example servers maintained by the MCP steering group—Fetch, Filesyste
 
 - Project: [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) · License: Apache-2.0 / MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/mcp-referans-sunuculari/](https://mehmetkuru.dev/en/kaynaklar/mcp-referans-sunuculari/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/ADfOsRi3h30)
 
 <a id="smithery"></a>
 
@@ -255,6 +271,7 @@ More than 250 ready-made specialist AI agent definitions, from engineering and m
 
 - Project: [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/agency-agents/](https://mehmetkuru.dev/en/kaynaklar/agency-agents/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/XAeaI-65y5Q)
 
 <a id="goose"></a>
 
@@ -264,6 +281,7 @@ Goose, an open-source agent under the Linux Foundation, handles code, research, 
 
 - Project: [aaif-goose/goose](https://github.com/aaif-goose/goose) · License: Apache-2.0 · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/goose/](https://mehmetkuru.dev/en/kaynaklar/goose/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/vq6tjuYVBF4)
 
 <a id="opencode"></a>
 
@@ -273,6 +291,7 @@ OpenCode is an open-source coding agent for the terminal and desktop that writes
 
 - Project: [anomalyco/opencode](https://github.com/anomalyco/opencode) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/opencode/](https://mehmetkuru.dev/en/kaynaklar/opencode/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/3Dmxe4-tL1o)
 
 <a id="strix"></a>
 
@@ -282,6 +301,7 @@ Strix is an open-source AI pentesting tool that tests your app like a real attac
 
 - Project: [usestrix/strix](https://github.com/usestrix/strix) · License: Apache-2.0 · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/strix/](https://mehmetkuru.dev/en/kaynaklar/strix/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/KNzqDR4SnPA)
 
 <a id="deer-flow"></a>
 
@@ -311,6 +331,7 @@ Open-source tool that turns a topic or keyword into a vertical video with script
 
 - Project: [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/moneyprinterturbo/](https://mehmetkuru.dev/en/kaynaklar/moneyprinterturbo/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/CLDD7eEiKZw)
 
 <a id="remotion"></a>
 
@@ -320,6 +341,7 @@ Remotion lets you design videos in React and render them in bulk—ideal for tem
 
 - Project: [remotion-dev/remotion](https://github.com/remotion-dev/remotion) · License: Remotion License · Free
 - Guide: [mehmetkuru.dev/en/kaynaklar/remotion/](https://mehmetkuru.dev/en/kaynaklar/remotion/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/TO_EZF4W71c)
 
 <a id="opencut"></a>
 
@@ -329,6 +351,7 @@ OpenCut is a free, open-source video editor for web, desktop and mobile; use the
 
 - Project: [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/opencut/](https://mehmetkuru.dev/en/kaynaklar/opencut/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/aOdfKnxkXNg)
 
 <a id="omnivoice"></a>
 
@@ -338,6 +361,7 @@ Open-source TTS model OmniVoice speaks more than 600 languages, including Turkis
 
 - Project: [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) · License: Apache-2.0 · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/omnivoice/](https://mehmetkuru.dev/en/kaynaklar/omnivoice/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/bknUEXqcjpc)
 
 <a id="qwen3-tts"></a>
 
@@ -347,6 +371,7 @@ Open-source TTS models from Alibaba's Qwen team: describe a voice in plain words
 
 - Project: [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) · License: Apache-2.0 · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/qwen3-tts/](https://mehmetkuru.dev/en/kaynaklar/qwen3-tts/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/b6WSRSIpF6c)
 
 <a id="fluidvoice"></a>
 
@@ -356,6 +381,7 @@ FluidVoice is an open-source macOS dictation app that turns speech into text on 
 
 - Project: [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) · License: GPL-3.0 · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/fluidvoice/](https://mehmetkuru.dev/en/kaynaklar/fluidvoice/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/gNTzOf2r_cs)
 
 <a id="whisper"></a>
 
@@ -394,6 +420,7 @@ Open-source Claude skill with dozens of UI styles that suggests palettes, font p
 
 - Project: [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/ui-ux-pro-max/](https://mehmetkuru.dev/en/kaynaklar/ui-ux-pro-max/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/cZqlnIMdmtU)
 
 <a id="taste-skill"></a>
 
@@ -403,6 +430,7 @@ Open-source skill that raises the quality of layout, typography, motion and spac
 
 - Project: [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/taste-skill/](https://mehmetkuru.dev/en/kaynaklar/taste-skill/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/WEVeVX9gbb4)
 
 <a id="open-design"></a>
 
@@ -412,6 +440,7 @@ Open-source desktop app that turns your coding agent into a design engine for pr
 
 - Project: [nexu-io/open-design](https://github.com/nexu-io/open-design) · License: Apache-2.0 · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/open-design/](https://mehmetkuru.dev/en/kaynaklar/open-design/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/PMQmHrb8eng)
 
 <a id="google-stitch"></a>
 
@@ -430,6 +459,7 @@ Framer Motion is now Motion: an open-source animation library for React, JavaScr
 
 - Project: [motiondivision/motion](https://github.com/motiondivision/motion) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/motion-framer-motion/](https://mehmetkuru.dev/en/kaynaklar/motion-framer-motion/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/yBqe-yNeM3A)
 
 <a id="z-image-turbo"></a>
 
@@ -439,6 +469,7 @@ Tongyi-MAI's open 6B-parameter image model Z-Image-Turbo offers photorealistic i
 
 - Project: [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) · License: Apache-2.0 · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/z-image-turbo/](https://mehmetkuru.dev/en/kaynaklar/z-image-turbo/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/snH-4NYQRXM)
 
 <a id="finegrain-image-enhancer"></a>
 
@@ -603,6 +634,7 @@ Open-source Ollama runs open models such as Gemma, Qwen, DeepSeek and gpt-oss on
 
 - Project: [ollama/ollama](https://github.com/ollama/ollama) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/ollama/](https://mehmetkuru.dev/en/kaynaklar/ollama/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/xWfzu9MoX9s)
 
 <a id="airllm"></a>
 
@@ -612,6 +644,7 @@ Open-source Python library that loads large open LLMs layer by layer to run them
 
 - Project: [lyogavin/airllm](https://github.com/lyogavin/airllm) · License: Apache-2.0 · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/airllm/](https://mehmetkuru.dev/en/kaynaklar/airllm/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/M9Znu8ASnfM)
 
 <a id="nvidia-build"></a>
 
@@ -650,6 +683,7 @@ Open-source Python library that uses LLMs and graph logic to extract data from w
 
 - Project: [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/scrapegraphai/](https://mehmetkuru.dev/en/kaynaklar/scrapegraphai/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/X8jyo8ksByc)
 
 <a id="cli-anything"></a>
 
@@ -659,6 +693,7 @@ Open-source project that generates agent-friendly command-line tools for softwar
 
 - Project: [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) · License: Apache-2.0 · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/cli-anything/](https://mehmetkuru.dev/en/kaynaklar/cli-anything/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/qdbp9L5gxGM)
 
 <a id="chatwoot"></a>
 
@@ -859,6 +894,7 @@ About 50 open-source marketing skills for conversion optimisation, copywriting, 
 
 - Project: [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/marketing-skills/](https://mehmetkuru.dev/en/kaynaklar/marketing-skills/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/9kJ2c1L__u4)
 
 <a id="meta-ads-ai-connectors"></a>
 
@@ -906,6 +942,7 @@ A continuously updated community list that groups hundreds of ready skills and p
 
 - Project: [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) · License: not specified · Free
 - Guide: [mehmetkuru.dev/en/kaynaklar/awesome-claude-skills/](https://mehmetkuru.dev/en/kaynaklar/awesome-claude-skills/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/uxakQFB_k5E)
 
 <a id="awesome-claude-code"></a>
 
@@ -915,6 +952,7 @@ A frequently updated community list that selects skills, agents, hooks, status l
 
 - Project: [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) · License: CC-BY-NC-ND-4.0 · Free
 - Guide: [mehmetkuru.dev/en/kaynaklar/awesome-claude-code/](https://mehmetkuru.dev/en/kaynaklar/awesome-claude-code/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/yoZFrXVXZLs)
 
 <a id="openalternative"></a>
 
@@ -992,4 +1030,4 @@ More than 500 hands-on lessons in 20 phases; each produces a prompt, skill, agen
 
 This repository only contains links and short summaries. Each project belongs to its owners and is distributed under its own license. The list is updated daily from mehmetkuru.dev data.
 
-Data last updated: 2026-11-01 · [github.com/ByMehmetKURUDev/kaynaklar](https://github.com/ByMehmetKURUDev/kaynaklar)
+Data last updated: 2026-11-07 · [github.com/ByMehmetKURUDev/kaynaklar](https://github.com/ByMehmetKURUDev/kaynaklar)
