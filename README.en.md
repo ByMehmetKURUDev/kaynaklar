@@ -136,6 +136,7 @@ Formerly Get Shit Done, this open-source system runs Claude Code and other codin
 
 - Project: [open-gsd/gsd-core](https://github.com/open-gsd/gsd-core) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/gsd-core/](https://mehmetkuru.dev/en/kaynaklar/gsd-core/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/0CGSOlhsKQQ)
 
 <a id="skillspector"></a>
 
@@ -145,6 +146,7 @@ NVIDIA's open-source scanner checks skills before you add them to Claude Code an
 
 - Project: [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) · License: Apache-2.0 · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/skillspector/](https://mehmetkuru.dev/en/kaynaklar/skillspector/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/3e7u8zdtRmE)
 
 <a id="mattpocock-skills"></a>
 
@@ -154,6 +156,7 @@ TypeScript educator Matt Pocock's open-source skill set turns your agent into a 
 
 - Project: [mattpocock/skills](https://github.com/mattpocock/skills) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/mattpocock-skills/](https://mehmetkuru.dev/en/kaynaklar/mattpocock-skills/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/w4iAWIycuPo)
 
 ## MCP & Plugins
 
@@ -242,6 +245,7 @@ Open-source tool that turns your codebase into a local knowledge graph and serve
 
 - Project: [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/codegraph/](https://mehmetkuru.dev/en/kaynaklar/codegraph/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/FKFaEDlpVlY)
 
 <a id="context-mode"></a>
 
@@ -251,6 +255,7 @@ An MCP server that processes raw tool output outside the context window and resu
 
 - Project: [mksglu/context-mode](https://github.com/mksglu/context-mode) · License: Elastic License 2.0 (ELv2) · Free
 - Guide: [mehmetkuru.dev/en/kaynaklar/context-mode/](https://mehmetkuru.dev/en/kaynaklar/context-mode/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/bRKdI6KHEDI)
 
 <a id="chrome-devtools-mcp"></a>
 
@@ -260,6 +265,7 @@ The Chrome team's official MCP server: agents such as Claude Code open a real Ch
 
 - Project: [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) · License: Apache-2.0 · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/chrome-devtools-mcp/](https://mehmetkuru.dev/en/kaynaklar/chrome-devtools-mcp/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/sxakUVwjTOk)
 
 ## AI Agents
 
@@ -311,6 +317,7 @@ ByteDance's open-source agent platform; with sub-agents, skills and a sandbox it
 
 - Project: [bytedance/deer-flow](https://github.com/bytedance/deer-flow) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/deer-flow/](https://mehmetkuru.dev/en/kaynaklar/deer-flow/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/ba2jNY28v34)
 
 <a id="copilotkit"></a>
 
@@ -320,6 +327,7 @@ Adds a chat window, agent-rendered UI components and approval steps before actio
 
 - Project: [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/copilotkit/](https://mehmetkuru.dev/en/kaynaklar/copilotkit/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/4jIQX9FKtKM)
 
 ## Video & Audio Production
 
@@ -391,6 +399,7 @@ OpenAI Whisper transcribes multilingual speech, including Turkish, on your compu
 
 - Project: [openai/whisper](https://github.com/openai/whisper) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/whisper/](https://mehmetkuru.dev/en/kaynaklar/whisper/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/MjnnUvRU_Ps)
 
 <a id="openscreen"></a>
 
@@ -400,6 +409,7 @@ Open-source OpenScreen turns screen recordings into polished product demos with 
 
 - Project: [EtienneLescot/openscreen](https://github.com/EtienneLescot/openscreen) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/openscreen/](https://mehmetkuru.dev/en/kaynaklar/openscreen/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/n1b17EKXhKQ)
 
 <a id="hyperframes"></a>
 
@@ -409,6 +419,7 @@ HeyGen's open-source HyperFrames turns HTML, CSS and animations into MP4 video a
 
 - Project: [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) · License: Apache-2.0 · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/hyperframes/](https://mehmetkuru.dev/en/kaynaklar/hyperframes/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/RmMBFXlIXb0)
 
 ## Visual & UI Design
 
@@ -488,6 +499,7 @@ shadcn/ui is an open-source set of Radix and Tailwind CSS components you copy st
 
 - Project: [shadcn-ui/ui](https://github.com/shadcn-ui/ui) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/shadcn-ui/](https://mehmetkuru.dev/en/kaynaklar/shadcn-ui/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/4hRJ6gbJxm0)
 
 <a id="magic-ui"></a>
 
@@ -497,6 +509,7 @@ Open-source Magic UI offers animated React components for landing pages, added t
 
 - Project: [magicuidesign/magicui](https://github.com/magicuidesign/magicui) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/magic-ui/](https://mehmetkuru.dev/en/kaynaklar/magic-ui/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/vcaAYBksI0E)
 
 <a id="react-bits"></a>
 
@@ -506,6 +519,7 @@ React Bits offers 200+ free React components with text animations, animated back
 
 - Project: [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) · License: MIT + Commons Clause · Free
 - Guide: [mehmetkuru.dev/en/kaynaklar/react-bits/](https://mehmetkuru.dev/en/kaynaklar/react-bits/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/C6EsrIqnbQs)
 
 <a id="lucide"></a>
 
@@ -515,6 +529,7 @@ Open-source Lucide provides 1,600+ consistent SVG icons with packages for React,
 
 - Project: [lucide-icons/lucide](https://github.com/lucide-icons/lucide) · License: ISC · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/lucide/](https://mehmetkuru.dev/en/kaynaklar/lucide/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/LWx2T1OzjAk)
 
 <a id="recharts"></a>
 
@@ -524,6 +539,7 @@ Built on React and D3, Recharts lets you write line, bar, area and pie charts as
 
 - Project: [recharts/recharts](https://github.com/recharts/recharts) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/recharts/](https://mehmetkuru.dev/en/kaynaklar/recharts/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/RcqBLqVSHLE)
 
 <a id="gsap"></a>
 
@@ -533,6 +549,7 @@ Now free with all plugins thanks to Webflow, GSAP is the pro standard for scroll
 
 - Project: [greensock/GSAP](https://github.com/greensock/GSAP) · License: [object Object] · Free
 - Guide: [mehmetkuru.dev/en/kaynaklar/gsap/](https://mehmetkuru.dev/en/kaynaklar/gsap/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/NbeKJZzH3Do)
 
 <a id="lenis"></a>
 
@@ -542,6 +559,7 @@ Open-source Lenis adds smooth scrolling while keeping native browser scroll, and
 
 - Project: [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/lenis/](https://mehmetkuru.dev/en/kaynaklar/lenis/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/lO11lgCwO_g)
 
 <a id="threejs"></a>
 
@@ -551,6 +569,7 @@ Open-source three.js is the go-to JavaScript library for building 3D scenes, pro
 
 - Project: [mrdoob/three.js](https://github.com/mrdoob/three.js) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/threejs/](https://mehmetkuru.dev/en/kaynaklar/threejs/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/7mJyFMSSg64)
 
 <a id="react-three-fiber"></a>
 
@@ -560,6 +579,7 @@ React Three Fiber lets you build three.js scenes from reusable React components;
 
 - Project: [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/react-three-fiber/](https://mehmetkuru.dev/en/kaynaklar/react-three-fiber/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/f-jJj_m2Y0s)
 
 <a id="antv-infographic"></a>
 
@@ -569,6 +589,7 @@ AntV Infographic turns content written in a simple syntax into SVG infographics 
 
 - Project: [antvis/Infographic](https://github.com/antvis/Infographic) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/antv-infographic/](https://mehmetkuru.dev/en/kaynaklar/antv-infographic/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/uGZzytojgWQ)
 
 <a id="comfyui"></a>
 
@@ -578,6 +599,7 @@ Open-source ComfyUI runs generative AI models for images, video, audio and 3D th
 
 - Project: [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) · License: GPL-3.0 · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/comfyui/](https://mehmetkuru.dev/en/kaynaklar/comfyui/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/qlHZIzjUmDY)
 
 <a id="storybook"></a>
 
@@ -587,6 +609,7 @@ Open-source Storybook lets you develop, test and live-document UI components fro
 
 - Project: [storybookjs/storybook](https://github.com/storybookjs/storybook) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/storybook/](https://mehmetkuru.dev/en/kaynaklar/storybook/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/sF8tv5cQ9AE)
 
 <a id="pascal-editor"></a>
 
@@ -596,6 +619,7 @@ Built with React Three Fiber and WebGPU, Pascal Editor models 3D buildings and i
 
 - Project: [pascalorg/editor](https://github.com/pascalorg/editor) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/pascal-editor/](https://mehmetkuru.dev/en/kaynaklar/pascal-editor/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/2FzoUzjnsl4)
 
 <a id="impeccable"></a>
 
@@ -605,6 +629,7 @@ Paul Bakaus's open-source design skill uses 24 commands and a 61-rule detector t
 
 - Project: [pbakaus/impeccable](https://github.com/pbakaus/impeccable) · License: Apache-2.0 · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/impeccable/](https://mehmetkuru.dev/en/kaynaklar/impeccable/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/y4MomjCDOq0)
 
 <a id="archify"></a>
 
@@ -614,6 +639,7 @@ Open-source skill that builds an interactive architecture diagram from a one-lin
 
 - Project: [tt-a1i/archify](https://github.com/tt-a1i/archify) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/archify/](https://mehmetkuru.dev/en/kaynaklar/archify/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/7Z-7F6HeGII)
 
 <a id="mermaid"></a>
 
@@ -623,6 +649,7 @@ Draws flow, sequence, Gantt and mind-map diagrams from a few lines of Markdown-l
 
 - Project: [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/mermaid/](https://mehmetkuru.dev/en/kaynaklar/mermaid/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/--2WHEptIQ8)
 
 ## Models & Free APIs
 
@@ -663,6 +690,7 @@ Open-source llmfit scans your CPU, RAM and GPU and recommends open language mode
 
 - Project: [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/llmfit/](https://mehmetkuru.dev/en/kaynaklar/llmfit/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/IO8z4Nai0SI)
 
 <a id="public-apis"></a>
 
@@ -672,6 +700,7 @@ The community-curated Public APIs repo lists hundreds of free APIs, from currenc
 
 - Project: [public-apis/public-apis](https://github.com/public-apis/public-apis) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/public-apis/](https://mehmetkuru.dev/en/kaynaklar/public-apis/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/2ZvG46_7DfU)
 
 ## Data Collection & Automation
 
@@ -703,6 +732,7 @@ Chatwoot, an open-source Intercom and Zendesk alternative, gathers WhatsApp, Ins
 
 - Project: [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) · License: [object Object] · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/chatwoot/](https://mehmetkuru.dev/en/kaynaklar/chatwoot/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/ICabADovR20)
 
 <a id="coolify"></a>
 
@@ -712,6 +742,7 @@ Open-source Coolify auto-deploys apps, databases and 300+ one-click services fro
 
 - Project: [coollabsio/coolify](https://github.com/coollabsio/coolify) · License: Apache-2.0 · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/coolify/](https://mehmetkuru.dev/en/kaynaklar/coolify/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/WzFoIN8_TJw)
 
 <a id="dokploy"></a>
 
@@ -721,6 +752,7 @@ Open-source Dokploy deploys Node.js, PHP and Python apps plus databases like MyS
 
 - Project: [dokploy/dokploy](https://github.com/dokploy/dokploy) · License: [object Object] · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/dokploy/](https://mehmetkuru.dev/en/kaynaklar/dokploy/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/TmUJ0EDEtck)
 
 <a id="grafana"></a>
 
@@ -730,6 +762,7 @@ Open-source Grafana combines metrics and logs from Prometheus, databases and ser
 
 - Project: [grafana/grafana](https://github.com/grafana/grafana) · License: AGPL-3.0 · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/grafana/](https://mehmetkuru.dev/en/kaynaklar/grafana/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/yOpHL_ZUKRs)
 
 <a id="osv-scanner"></a>
 
@@ -739,6 +772,7 @@ Google's open-source OSV-Scanner checks your package files (npm, pip, composer a
 
 - Project: [google/osv-scanner](https://github.com/google/osv-scanner) · License: Apache-2.0 · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/osv-scanner/](https://mehmetkuru.dev/en/kaynaklar/osv-scanner/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/CBrQmyUlsuQ)
 
 <a id="puppeteer"></a>
 
@@ -748,6 +782,7 @@ Open-source JavaScript library Puppeteer drives the browser with code, captures 
 
 - Project: [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) · License: Apache-2.0 · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/puppeteer/](https://mehmetkuru.dev/en/kaynaklar/puppeteer/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/3BNeXZLK38I)
 
 <a id="plane"></a>
 
@@ -757,6 +792,7 @@ Open-source Plane manages team projects with work items, cycles (sprints), modul
 
 - Project: [makeplane/plane](https://github.com/makeplane/plane) · License: AGPL-3.0 · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/plane/](https://mehmetkuru.dev/en/kaynaklar/plane/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/RiOGPk9jlNw)
 
 <a id="appflowy"></a>
 
@@ -766,6 +802,7 @@ Open-source AppFlowy is an AI-assisted workspace with docs, wikis, grids and kan
 
 - Project: [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) · License: AGPL-3.0 · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/appflowy/](https://mehmetkuru.dev/en/kaynaklar/appflowy/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/EhkfRzd3Cao)
 
 <a id="payload-cms"></a>
 
@@ -775,6 +812,7 @@ MIT-licensed Payload is a headless CMS and app framework that lives inside your 
 
 - Project: [payloadcms/payload](https://github.com/payloadcms/payload) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/payload-cms/](https://mehmetkuru.dev/en/kaynaklar/payload-cms/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/dOL3ZvQQGxI)
 
 <a id="strapi"></a>
 
@@ -784,6 +822,7 @@ Open-source Strapi lets you build content models in an admin panel and generates
 
 - Project: [strapi/strapi](https://github.com/strapi/strapi) · License: [object Object] · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/strapi/](https://mehmetkuru.dev/en/kaynaklar/strapi/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/8qZCsHsCQE8)
 
 <a id="filament"></a>
 
@@ -793,6 +832,7 @@ MIT-licensed Filament adds a ready-made admin panel with tables, forms, dashboar
 
 - Project: [filamentphp/filament](https://github.com/filamentphp/filament) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/filament/](https://mehmetkuru.dev/en/kaynaklar/filament/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/SNeKj1B1eTY)
 
 <a id="refine"></a>
 
@@ -802,6 +842,7 @@ Open-source React framework for quickly building data-heavy admin panels and int
 
 - Project: [refinedev/refine](https://github.com/refinedev/refine) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/refine/](https://mehmetkuru.dev/en/kaynaklar/refine/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/JwphJfbkAFM)
 
 <a id="twenty-crm"></a>
 
@@ -811,6 +852,7 @@ Twenty, an open-source Salesforce alternative, manages contacts, companies and d
 
 - Project: [twentyhq/twenty](https://github.com/twentyhq/twenty) · License: [object Object] · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/twenty-crm/](https://mehmetkuru.dev/en/kaynaklar/twenty-crm/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/uzR5UjxwP7I)
 
 <a id="signoz"></a>
 
@@ -820,6 +862,7 @@ Open-source SigNoz, built on OpenTelemetry, tracks app performance, logs, reques
 
 - Project: [SigNoz/signoz](https://github.com/SigNoz/signoz) · License: [object Object] · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/signoz/](https://mehmetkuru.dev/en/kaynaklar/signoz/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/Zd6_Mt58a3c)
 
 <a id="singlefile"></a>
 
@@ -829,6 +872,7 @@ Open-source SingleFile saves the page you are viewing, images and styles include
 
 - Project: [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) · License: AGPL-3.0 · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/singlefile/](https://mehmetkuru.dev/en/kaynaklar/singlefile/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/gow3dNIHmEQ)
 
 <a id="gowitness"></a>
 
@@ -838,6 +882,7 @@ Screenshots every site in a URL list and gathers HTTP status, SSL expiry dates a
 
 - Project: [sensepost/gowitness](https://github.com/sensepost/gowitness) · License: GPL-3.0 · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/gowitness/](https://mehmetkuru.dev/en/kaynaklar/gowitness/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/ZsmBxdNVbkg)
 
 <a id="kestra"></a>
 
@@ -847,6 +892,7 @@ Open-source Kestra runs workflows written in YAML or a no-code editor on schedul
 
 - Project: [kestra-io/kestra](https://github.com/kestra-io/kestra) · License: Apache-2.0 · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/kestra/](https://mehmetkuru.dev/en/kaynaklar/kestra/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/iGGwL068XDE)
 
 <a id="n8n"></a>
 
@@ -856,6 +902,7 @@ Build flows from forms to CRM or email to spreadsheets by drag and drop; 1,500+ 
 
 - Project: [n8n-io/n8n](https://github.com/n8n-io/n8n) · License: [object Object] · Free
 - Guide: [mehmetkuru.dev/en/kaynaklar/n8n/](https://mehmetkuru.dev/en/kaynaklar/n8n/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/UQG1qUe31Qg)
 
 <a id="appsmith"></a>
 
@@ -865,6 +912,7 @@ Connects table, form and chart widgets to a database or API to build order, stoc
 
 - Project: [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) · License: [object Object] · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/appsmith/](https://mehmetkuru.dev/en/kaynaklar/appsmith/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/NdWDzq7DnDs)
 
 <a id="devtoys"></a>
 
@@ -874,6 +922,7 @@ Connects table, form and chart widgets to a database or API to build order, stoc
 
 - Project: [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/devtoys/](https://mehmetkuru.dev/en/kaynaklar/devtoys/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/ppgDA-WnSFI)
 
 ## Advertising & Marketing
 
@@ -913,6 +962,7 @@ Open-source Umami measures visits, campaigns and conversions without cookies, se
 
 - Project: [umami-software/umami](https://github.com/umami-software/umami) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/umami/](https://mehmetkuru.dev/en/kaynaklar/umami/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/6QTLxQG_4II)
 
 <a id="postiz"></a>
 
@@ -922,6 +972,7 @@ Open-source Postiz schedules and analyses posts for Instagram, TikTok, YouTube a
 
 - Project: [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) · License: AGPL-3.0 · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/postiz/](https://mehmetkuru.dev/en/kaynaklar/postiz/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/hzbc9vTPLRU)
 
 ## Guides & Directories
 
@@ -989,6 +1040,7 @@ Microsoft's free course teaches you to build generative AI apps in 21 lessons, f
 
 - Project: [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/generative-ai-for-beginners/](https://mehmetkuru.dev/en/kaynaklar/generative-ai-for-beginners/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/g2fZa8HHDMU)
 
 <a id="claude-code-best-practice"></a>
 
@@ -998,6 +1050,7 @@ This community guide explains Claude Code's subagents, commands, skills, hooks, 
 
 - Project: [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/claude-code-best-practice/](https://mehmetkuru.dev/en/kaynaklar/claude-code-best-practice/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/aRaprU6nxo8)
 
 <a id="free-for-dev"></a>
 
@@ -1007,6 +1060,7 @@ free-for-dev lists hundreds of services with free tiers, organised by category: 
 
 - Project: [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) · License: not specified · Free
 - Guide: [mehmetkuru.dev/en/kaynaklar/free-for-dev/](https://mehmetkuru.dev/en/kaynaklar/free-for-dev/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/nZq5ubtdiDw)
 
 <a id="prompts-chat"></a>
 
@@ -1016,6 +1070,7 @@ Community prompts that work in any AI chat tool, a free interactive prompting bo
 
 - Project: [f/prompts.chat](https://github.com/f/prompts.chat) · License: [object Object] · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/prompts-chat/](https://mehmetkuru.dev/en/kaynaklar/prompts-chat/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/HXO2db2ZPLc)
 
 <a id="ai-engineering-from-scratch"></a>
 
@@ -1025,9 +1080,10 @@ More than 500 hands-on lessons in 20 phases; each produces a prompt, skill, agen
 
 - Project: [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/ai-engineering-from-scratch/](https://mehmetkuru.dev/en/kaynaklar/ai-engineering-from-scratch/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/IP5WkL513kQ)
 
 ---
 
 This repository only contains links and short summaries. Each project belongs to its owners and is distributed under its own license. The list is updated daily from mehmetkuru.dev data.
 
-Data last updated: 2026-11-07 · [github.com/ByMehmetKURUDev/kaynaklar](https://github.com/ByMehmetKURUDev/kaynaklar)
+Data last updated: 2026-11-08 · [github.com/ByMehmetKURUDev/kaynaklar](https://github.com/ByMehmetKURUDev/kaynaklar)

@@ -136,6 +136,7 @@ Eski adıyla Get Shit Done; Claude Code ve diğer kodlama ajanlarını Tartış,
 
 - Proje: [open-gsd/gsd-core](https://github.com/open-gsd/gsd-core) · Lisans: MIT · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/gsd-core/](https://mehmetkuru.dev/kaynaklar/gsd-core/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/0CGSOlhsKQQ)
 
 <a id="skillspector"></a>
 
@@ -145,6 +146,7 @@ NVIDIA'nın açık kaynak tarayıcısı; Claude Code ve benzeri ajanlara kuraca�
 
 - Proje: [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) · Lisans: Apache-2.0 · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/skillspector/](https://mehmetkuru.dev/kaynaklar/skillspector/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/3e7u8zdtRmE)
 
 <a id="mattpocock-skills"></a>
 
@@ -154,6 +156,7 @@ TypeScript eğitmeni Matt Pocock'un açık kaynak beceri seti; ajanınızı önc
 
 - Proje: [mattpocock/skills](https://github.com/mattpocock/skills) · Lisans: MIT · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/mattpocock-skills/](https://mehmetkuru.dev/kaynaklar/mattpocock-skills/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/w4iAWIycuPo)
 
 ## MCP ve Eklentiler
 
@@ -242,6 +245,7 @@ Kod tabanını yerel bir bilgi grafiğine çevirip Claude Code gibi ajanlara MCP
 
 - Proje: [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) · Lisans: MIT · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/codegraph/](https://mehmetkuru.dev/kaynaklar/codegraph/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/FKFaEDlpVlY)
 
 <a id="context-mode"></a>
 
@@ -251,6 +255,7 @@ Ham araç çıktısını bağlam penceresine taşımadan işleyen, sıkıştırm
 
 - Proje: [mksglu/context-mode](https://github.com/mksglu/context-mode) · Lisans: Elastic License 2.0 (ELv2) · Ücretsiz
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/context-mode/](https://mehmetkuru.dev/kaynaklar/context-mode/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/bRKdI6KHEDI)
 
 <a id="chrome-devtools-mcp"></a>
 
@@ -260,6 +265,7 @@ Chrome ekibinin resmi MCP sunucusu; Claude Code gibi ajanlar gerçek bir Chrome 
 
 - Proje: [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) · Lisans: Apache-2.0 · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/chrome-devtools-mcp/](https://mehmetkuru.dev/kaynaklar/chrome-devtools-mcp/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/sxakUVwjTOk)
 
 ## Yapay Zekâ Ajanları
 
@@ -311,6 +317,7 @@ ByteDance'in açık kaynak ajan platformu; alt ajanlar, beceriler ve korumalı a
 
 - Proje: [bytedance/deer-flow](https://github.com/bytedance/deer-flow) · Lisans: MIT · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/deer-flow/](https://mehmetkuru.dev/kaynaklar/deer-flow/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/ba2jNY28v34)
 
 <a id="copilotkit"></a>
 
@@ -320,6 +327,7 @@ React, Angular, Vue ve React Native uygulamalarına sohbet penceresi, ajanın ç
 
 - Proje: [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) · Lisans: MIT · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/copilotkit/](https://mehmetkuru.dev/kaynaklar/copilotkit/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/4jIQX9FKtKM)
 
 ## Video ve Ses Üretimi
 
@@ -391,6 +399,7 @@ OpenAI Whisper; Türkçe dahil çok dilli konuşmayı bilgisayarınızda metne �
 
 - Proje: [openai/whisper](https://github.com/openai/whisper) · Lisans: MIT · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/whisper/](https://mehmetkuru.dev/kaynaklar/whisper/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/MjnnUvRU_Ps)
 
 <a id="openscreen"></a>
 
@@ -400,6 +409,7 @@ Açık kaynak OpenScreen; ekran kaydını otomatik yakınlaştırma, imleç efek
 
 - Proje: [EtienneLescot/openscreen](https://github.com/EtienneLescot/openscreen) · Lisans: MIT · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/openscreen/](https://mehmetkuru.dev/kaynaklar/openscreen/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/n1b17EKXhKQ)
 
 <a id="hyperframes"></a>
 
@@ -409,6 +419,7 @@ HeyGen'in açık kaynak çatısı HyperFrames; HTML, CSS ve animasyonları MP4 v
 
 - Proje: [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) · Lisans: Apache-2.0 · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/hyperframes/](https://mehmetkuru.dev/kaynaklar/hyperframes/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/RmMBFXlIXb0)
 
 ## Görsel ve Arayüz Tasarımı
 
@@ -488,6 +499,7 @@ shadcn/ui; kodunu doğrudan projenize kopyaladığınız, Radix ve Tailwind CSS 
 
 - Proje: [shadcn-ui/ui](https://github.com/shadcn-ui/ui) · Lisans: MIT · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/shadcn-ui/](https://mehmetkuru.dev/kaynaklar/shadcn-ui/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/4hRJ6gbJxm0)
 
 <a id="magic-ui"></a>
 
@@ -497,6 +509,7 @@ Açık kaynak Magic UI; açılış sayfaları için hareketli React bileşenleri
 
 - Proje: [magicuidesign/magicui](https://github.com/magicuidesign/magicui) · Lisans: MIT · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/magic-ui/](https://mehmetkuru.dev/kaynaklar/magic-ui/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/vcaAYBksI0E)
 
 <a id="react-bits"></a>
 
@@ -506,6 +519,7 @@ React Bits; metin animasyonu, hareketli arka plan ve mikro etkileşim içeren 20
 
 - Proje: [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) · Lisans: MIT + Commons Clause · Ücretsiz
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/react-bits/](https://mehmetkuru.dev/kaynaklar/react-bits/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/C6EsrIqnbQs)
 
 <a id="lucide"></a>
 
@@ -515,6 +529,7 @@ Açık kaynak Lucide; React, Vue, Svelte, Angular ve düz JavaScript paketleriyl
 
 - Proje: [lucide-icons/lucide](https://github.com/lucide-icons/lucide) · Lisans: ISC · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/lucide/](https://mehmetkuru.dev/kaynaklar/lucide/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/LWx2T1OzjAk)
 
 <a id="recharts"></a>
 
@@ -524,6 +539,7 @@ React ve D3 üzerine kurulu Recharts; çizgi, sütun, alan ve pasta grafiklerini
 
 - Proje: [recharts/recharts](https://github.com/recharts/recharts) · Lisans: MIT · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/recharts/](https://mehmetkuru.dev/kaynaklar/recharts/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/RcqBLqVSHLE)
 
 <a id="gsap"></a>
 
@@ -533,6 +549,7 @@ Webflow desteğiyle tüm eklentileri dahil ücretsiz olan GSAP; ScrollTrigger il
 
 - Proje: [greensock/GSAP](https://github.com/greensock/GSAP) · Lisans: [object Object] · Ücretsiz
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/gsap/](https://mehmetkuru.dev/kaynaklar/gsap/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/NbeKJZzH3Do)
 
 <a id="lenis"></a>
 
@@ -542,6 +559,7 @@ Açık kaynak Lenis; tarayıcının yerel kaydırmasını koruyarak akıcı kayd
 
 - Proje: [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) · Lisans: MIT · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/lenis/](https://mehmetkuru.dev/kaynaklar/lenis/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/lO11lgCwO_g)
 
 <a id="threejs"></a>
 
@@ -551,6 +569,7 @@ Açık kaynak three.js; tarayıcıda WebGL ve WebGPU ile 3D sahne, ürün görse
 
 - Proje: [mrdoob/three.js](https://github.com/mrdoob/three.js) · Lisans: MIT · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/threejs/](https://mehmetkuru.dev/kaynaklar/threejs/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/7mJyFMSSg64)
 
 <a id="react-three-fiber"></a>
 
@@ -560,6 +579,7 @@ React Three Fiber; three.js sahnelerini yeniden kullanılabilir React bileşenle
 
 - Proje: [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) · Lisans: MIT · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/react-three-fiber/](https://mehmetkuru.dev/kaynaklar/react-three-fiber/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/f-jJj_m2Y0s)
 
 <a id="antv-infographic"></a>
 
@@ -569,6 +589,7 @@ AntV Infographic; sade bir sözdizimiyle yazılan içeriği yaklaşık 200 hazı
 
 - Proje: [antvis/Infographic](https://github.com/antvis/Infographic) · Lisans: MIT · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/antv-infographic/](https://mehmetkuru.dev/kaynaklar/antv-infographic/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/uGZzytojgWQ)
 
 <a id="comfyui"></a>
 
@@ -578,6 +599,7 @@ Açık kaynak ComfyUI; görsel, video, ses ve 3D üreten yapay zekâ modellerini
 
 - Proje: [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) · Lisans: GPL-3.0 · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/comfyui/](https://mehmetkuru.dev/kaynaklar/comfyui/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/qlHZIzjUmDY)
 
 <a id="storybook"></a>
 
@@ -587,6 +609,7 @@ Açık kaynak Storybook; React ve diğer çatılardaki arayüz bileşenlerini uy
 
 - Proje: [storybookjs/storybook](https://github.com/storybookjs/storybook) · Lisans: MIT · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/storybook/](https://mehmetkuru.dev/kaynaklar/storybook/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/sF8tv5cQ9AE)
 
 <a id="pascal-editor"></a>
 
@@ -596,6 +619,7 @@ React Three Fiber ve WebGPU ile yazılmış Pascal Editor; tarayıcıda 3D bina 
 
 - Proje: [pascalorg/editor](https://github.com/pascalorg/editor) · Lisans: MIT · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/pascal-editor/](https://mehmetkuru.dev/kaynaklar/pascal-editor/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/2FzoUzjnsl4)
 
 <a id="impeccable"></a>
 
@@ -605,6 +629,7 @@ Paul Bakaus'un açık kaynak tasarım becerisi; 24 komut ve 61 kurallı denetley
 
 - Proje: [pbakaus/impeccable](https://github.com/pbakaus/impeccable) · Lisans: Apache-2.0 · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/impeccable/](https://mehmetkuru.dev/kaynaklar/impeccable/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/y4MomjCDOq0)
 
 <a id="archify"></a>
 
@@ -614,6 +639,7 @@ Tek cümlelik bir tariften ya da bir kod deposundan etkileşimli mimari diyagram
 
 - Proje: [tt-a1i/archify](https://github.com/tt-a1i/archify) · Lisans: MIT · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/archify/](https://mehmetkuru.dev/kaynaklar/archify/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/7Z-7F6HeGII)
 
 <a id="mermaid"></a>
 
@@ -623,6 +649,7 @@ Birkaç satır Markdown benzeri metinden akış, sıra, Gantt ve zihin haritası
 
 - Proje: [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) · Lisans: MIT · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/mermaid/](https://mehmetkuru.dev/kaynaklar/mermaid/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/--2WHEptIQ8)
 
 ## Modeller ve Ücretsiz API'ler
 
@@ -663,6 +690,7 @@ Açık kaynak llmfit; işlemci, RAM ve ekran kartınızı tarar, donanımınızd
 
 - Proje: [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) · Lisans: MIT · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/llmfit/](https://mehmetkuru.dev/kaynaklar/llmfit/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/IO8z4Nai0SI)
 
 <a id="public-apis"></a>
 
@@ -672,6 +700,7 @@ Topluluk tarafından derlenen Public APIs; döviz, hava durumu, harita, takvim g
 
 - Proje: [public-apis/public-apis](https://github.com/public-apis/public-apis) · Lisans: MIT · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/public-apis/](https://mehmetkuru.dev/kaynaklar/public-apis/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/2ZvG46_7DfU)
 
 ## Veri Toplama ve Otomasyon
 
@@ -703,6 +732,7 @@ Intercom ve Zendesk'e açık kaynak alternatif Chatwoot; WhatsApp, Instagram, Fa
 
 - Proje: [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) · Lisans: [object Object] · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/chatwoot/](https://mehmetkuru.dev/kaynaklar/chatwoot/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/ICabADovR20)
 
 <a id="coolify"></a>
 
@@ -712,6 +742,7 @@ Açık kaynak Coolify; kendi VPS'inizde uygulama, veritabanı ve 300'ü aşkın 
 
 - Proje: [coollabsio/coolify](https://github.com/coollabsio/coolify) · Lisans: Apache-2.0 · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/coolify/](https://mehmetkuru.dev/kaynaklar/coolify/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/WzFoIN8_TJw)
 
 <a id="dokploy"></a>
 
@@ -721,6 +752,7 @@ Açık kaynak Dokploy; Node.js, PHP, Python uygulamalarını ve MySQL, PostgreSQ
 
 - Proje: [dokploy/dokploy](https://github.com/dokploy/dokploy) · Lisans: [object Object] · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/dokploy/](https://mehmetkuru.dev/kaynaklar/dokploy/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/TmUJ0EDEtck)
 
 <a id="grafana"></a>
 
@@ -730,6 +762,7 @@ Açık kaynak Grafana; Prometheus, veritabanları ve servislerden gelen metrik v
 
 - Proje: [grafana/grafana](https://github.com/grafana/grafana) · Lisans: AGPL-3.0 · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/grafana/](https://mehmetkuru.dev/kaynaklar/grafana/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/yOpHL_ZUKRs)
 
 <a id="osv-scanner"></a>
 
@@ -739,6 +772,7 @@ Google'ın açık kaynak aracı OSV-Scanner; npm, pip ve composer gibi paket dos
 
 - Proje: [google/osv-scanner](https://github.com/google/osv-scanner) · Lisans: Apache-2.0 · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/osv-scanner/](https://mehmetkuru.dev/kaynaklar/osv-scanner/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/CBrQmyUlsuQ)
 
 <a id="puppeteer"></a>
 
@@ -748,6 +782,7 @@ Açık kaynak JavaScript kütüphanesi Puppeteer; tarayıcıyı kodla yönetir, 
 
 - Proje: [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) · Lisans: Apache-2.0 · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/puppeteer/](https://mehmetkuru.dev/kaynaklar/puppeteer/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/3BNeXZLK38I)
 
 <a id="plane"></a>
 
@@ -757,6 +792,7 @@ Açık kaynak Plane; iş kalemleri, döngüler (sprint), modüller ve analizlerl
 
 - Proje: [makeplane/plane](https://github.com/makeplane/plane) · Lisans: AGPL-3.0 · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/plane/](https://mehmetkuru.dev/kaynaklar/plane/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/RiOGPk9jlNw)
 
 <a id="appflowy"></a>
 
@@ -766,6 +802,7 @@ Açık kaynak AppFlowy; belgeler, wiki, tablolar ve kanban panolarıyla yapay ze
 
 - Proje: [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) · Lisans: AGPL-3.0 · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/appflowy/](https://mehmetkuru.dev/kaynaklar/appflowy/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/EhkfRzd3Cao)
 
 <a id="payload-cms"></a>
 
@@ -775,6 +812,7 @@ MIT lisanslı Payload; Next.js uygulamasının içine kurulan headless CMS ve uy
 
 - Proje: [payloadcms/payload](https://github.com/payloadcms/payload) · Lisans: MIT · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/payload-cms/](https://mehmetkuru.dev/kaynaklar/payload-cms/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/dOL3ZvQQGxI)
 
 <a id="strapi"></a>
 
@@ -784,6 +822,7 @@ Açık kaynak Strapi; içerik modellerini panelden kurar ve REST API üretir. Re
 
 - Proje: [strapi/strapi](https://github.com/strapi/strapi) · Lisans: [object Object] · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/strapi/](https://mehmetkuru.dev/kaynaklar/strapi/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/8qZCsHsCQE8)
 
 <a id="filament"></a>
 
@@ -793,6 +832,7 @@ MIT lisanslı Filament; Laravel projelerine tablo, form, pano widget'ı ve bildi
 
 - Proje: [filamentphp/filament](https://github.com/filamentphp/filament) · Lisans: MIT · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/filament/](https://mehmetkuru.dev/kaynaklar/filament/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/SNeKj1B1eTY)
 
 <a id="refine"></a>
 
@@ -802,6 +842,7 @@ Veri ağırlıklı yönetim panellerini ve dahili araçları hızla kurmak için
 
 - Proje: [refinedev/refine](https://github.com/refinedev/refine) · Lisans: MIT · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/refine/](https://mehmetkuru.dev/kaynaklar/refine/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/JwphJfbkAFM)
 
 <a id="twenty-crm"></a>
 
@@ -811,6 +852,7 @@ Salesforce'a açık kaynak alternatif Twenty; kişi, şirket ve fırsatları yö
 
 - Proje: [twentyhq/twenty](https://github.com/twentyhq/twenty) · Lisans: [object Object] · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/twenty-crm/](https://mehmetkuru.dev/kaynaklar/twenty-crm/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/uzR5UjxwP7I)
 
 <a id="signoz"></a>
 
@@ -820,6 +862,7 @@ OpenTelemetry tabanlı açık kaynak SigNoz; uygulama performansını, logları,
 
 - Proje: [SigNoz/signoz](https://github.com/SigNoz/signoz) · Lisans: [object Object] · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/signoz/](https://mehmetkuru.dev/kaynaklar/signoz/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/Zd6_Mt58a3c)
 
 <a id="singlefile"></a>
 
@@ -829,6 +872,7 @@ Açık kaynak SingleFile, açık sayfayı görselleri ve stilleriyle tek bir HTM
 
 - Proje: [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) · Lisans: AGPL-3.0 · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/singlefile/](https://mehmetkuru.dev/kaynaklar/singlefile/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/gow3dNIHmEQ)
 
 <a id="gowitness"></a>
 
@@ -838,6 +882,7 @@ Bir adres listesindeki sitelerin ekran görüntüsünü alır; HTTP durumunu, SS
 
 - Proje: [sensepost/gowitness](https://github.com/sensepost/gowitness) · Lisans: GPL-3.0 · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/gowitness/](https://mehmetkuru.dev/kaynaklar/gowitness/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/ZsmBxdNVbkg)
 
 <a id="kestra"></a>
 
@@ -847,6 +892,7 @@ Açık kaynak Kestra; YAML ya da kodsuz editörle yazılan iş akışlarını za
 
 - Proje: [kestra-io/kestra](https://github.com/kestra-io/kestra) · Lisans: Apache-2.0 · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/kestra/](https://mehmetkuru.dev/kaynaklar/kestra/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/iGGwL068XDE)
 
 <a id="n8n"></a>
 
@@ -856,6 +902,7 @@ Formdan CRM'e, e-postadan tabloya akışları sürükle-bırak kurar; 1500'ü a�
 
 - Proje: [n8n-io/n8n](https://github.com/n8n-io/n8n) · Lisans: [object Object] · Ücretsiz
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/n8n/](https://mehmetkuru.dev/kaynaklar/n8n/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/UQG1qUe31Qg)
 
 <a id="appsmith"></a>
 
@@ -865,6 +912,7 @@ Tablo, form ve grafik bileşenlerini veritabanına ya da API'ye bağlayarak sipa
 
 - Proje: [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) · Lisans: [object Object] · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/appsmith/](https://mehmetkuru.dev/kaynaklar/appsmith/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/NdWDzq7DnDs)
 
 <a id="devtoys"></a>
 
@@ -874,6 +922,7 @@ JSON/YAML dönüştürme, JWT çözme, hash ve metin karşılaştırma gibi 30 a
 
 - Proje: [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) · Lisans: MIT · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/devtoys/](https://mehmetkuru.dev/kaynaklar/devtoys/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/ppgDA-WnSFI)
 
 ## Reklam ve Pazarlama
 
@@ -913,6 +962,7 @@ Açık kaynak Umami; ziyaret, kampanya ve dönüşüm verisini çerez kullanmada
 
 - Proje: [umami-software/umami](https://github.com/umami-software/umami) · Lisans: MIT · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/umami/](https://mehmetkuru.dev/kaynaklar/umami/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/6QTLxQG_4II)
 
 <a id="postiz"></a>
 
@@ -922,6 +972,7 @@ Açık kaynak Postiz; Instagram, TikTok, YouTube ve LinkedIn hesaplarına gönde
 
 - Proje: [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) · Lisans: AGPL-3.0 · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/postiz/](https://mehmetkuru.dev/kaynaklar/postiz/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/hzbc9vTPLRU)
 
 ## Rehberler ve Dizinler
 
@@ -989,6 +1040,7 @@ Microsoft'un ücretsiz kursu; 21 derste istem mühendisliğinden RAG ve ajanlara
 
 - Proje: [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) · Lisans: MIT · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/generative-ai-for-beginners/](https://mehmetkuru.dev/kaynaklar/generative-ai-for-beginners/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/g2fZa8HHDMU)
 
 <a id="claude-code-best-practice"></a>
 
@@ -998,6 +1050,7 @@ Topluluk rehberi; Claude Code'un alt ajan, komut, beceri, hook, MCP ve bellek ö
 
 - Proje: [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) · Lisans: MIT · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/claude-code-best-practice/](https://mehmetkuru.dev/kaynaklar/claude-code-best-practice/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/aRaprU6nxo8)
 
 <a id="free-for-dev"></a>
 
@@ -1007,6 +1060,7 @@ free-for-dev; bulut, barındırma, e-posta, CI/CD, izleme ve CMS gibi alanlarda 
 
 - Proje: [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) · Lisans: belirtilmemiş · Ücretsiz
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/free-for-dev/](https://mehmetkuru.dev/kaynaklar/free-for-dev/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/nZq5ubtdiDw)
 
 <a id="prompts-chat"></a>
 
@@ -1016,6 +1070,7 @@ Her yapay zekâ sohbet aracında işe yarayan topluluk istemleri, ücretsiz etki
 
 - Proje: [f/prompts.chat](https://github.com/f/prompts.chat) · Lisans: [object Object] · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/prompts-chat/](https://mehmetkuru.dev/kaynaklar/prompts-chat/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/HXO2db2ZPLc)
 
 <a id="ai-engineering-from-scratch"></a>
 
@@ -1025,9 +1080,10 @@ Her yapay zekâ sohbet aracında işe yarayan topluluk istemleri, ücretsiz etki
 
 - Proje: [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) · Lisans: MIT · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/ai-engineering-from-scratch/](https://mehmetkuru.dev/kaynaklar/ai-engineering-from-scratch/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/IP5WkL513kQ)
 
 ---
 
 Bu depo yalnız bağlantı ve kısa özet içerir. Projeler kendi sahiplerine aittir ve kendi lisanslarıyla dağıtılır. Liste her gün mehmetkuru.dev verisinden otomatik güncellenir.
 
-Son veri güncellemesi: 2026-11-07 · [github.com/ByMehmetKURUDev/kaynaklar](https://github.com/ByMehmetKURUDev/kaynaklar)
+Son veri güncellemesi: 2026-11-08 · [github.com/ByMehmetKURUDev/kaynaklar](https://github.com/ByMehmetKURUDev/kaynaklar)
