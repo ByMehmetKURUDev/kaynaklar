@@ -188,6 +188,7 @@ Anthropic'in küçük işletmelere özel, hazır iş akışları ve QuickBooks, 
 
 - Proje: [claude.com](https://claude.com/solutions/small-business) · Lisans: belirtilmemiş
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/claude-for-small-business/](https://mehmetkuru.dev/kaynaklar/claude-for-small-business/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/eok9CUhKUis)
 
 <a id="markitdown"></a>
 
@@ -221,12 +222,13 @@ MCP yönlendirme grubunun bakımını yaptığı resmi örnek sunucular: Fetch, 
 
 <a id="smithery"></a>
 
-### Smithery: Yapay Zekâ Ajanlarını Binlerce Araca Bağlayan MCP Platformu
+### Smithery: Yapay Zekâ Ajanları İçin Herkese Açık MCP Sunucu Dizini
 
-Binlerce MCP sunucusunu listeleyen ve kimlik doğrulama ile oturumları sizin yerinize yöneten Smithery; ajanınıza yeni araç eklemenin kısa yolu.
+Herkese açık MCP sunucu dizini Smithery artık Arcade'in parçası; 31 Ekim 2026'dan beri sunuculara aracın kendi resmî MCP adresiyle bağlanılıyor.
 
 - Proje: [smithery.ai](https://smithery.ai) · Lisans: belirtilmemiş · Ücretsiz
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/smithery/](https://mehmetkuru.dev/kaynaklar/smithery/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/H4FPosIxdQk)
 
 <a id="mcp-market"></a>
 
@@ -236,6 +238,7 @@ Claude ve Cursor'ı Figma, veri tabanı ve geliştirici araçlarına bağlayan o
 
 - Proje: [mcpmarket.com](https://mcpmarket.com) · Lisans: belirtilmemiş · Ücretsiz
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/mcp-market/](https://mehmetkuru.dev/kaynaklar/mcp-market/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/nU68_oV8MUg)
 
 <a id="codegraph"></a>
 
@@ -461,6 +464,7 @@ Google Labs'in yapay zekâ destekli arayüz aracı Stitch; metin, eskiz ya da ek
 
 - Proje: [stitch.withgoogle.com](https://stitch.withgoogle.com) · Lisans: belirtilmemiş · Ücretsiz
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/google-stitch/](https://mehmetkuru.dev/kaynaklar/google-stitch/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/qVXy9n64VPM)
 
 <a id="motion-framer-motion"></a>
 
@@ -490,6 +494,7 @@ Hugging Face üzerinde ücretsiz çalışan Finegrain Image Enhancer, düşük �
 
 - Proje: [huggingface.co](https://huggingface.co/spaces/finegrain/finegrain-image-enhancer) · Lisans: belirtilmemiş · Ücretsiz
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/finegrain-image-enhancer/](https://mehmetkuru.dev/kaynaklar/finegrain-image-enhancer/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/WiTw1KImvyE)
 
 <a id="shadcn-ui"></a>
 
@@ -681,6 +686,7 @@ NVIDIA Geliştirici Programı üyelerine prototip, araştırma ve test için üc
 
 - Proje: [build.nvidia.com](https://build.nvidia.com) · Lisans: belirtilmemiş · Ücretsiz
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/nvidia-build/](https://mehmetkuru.dev/kaynaklar/nvidia-build/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/gJZBbfO5D2I)
 
 <a id="llmfit"></a>
 
@@ -934,6 +940,7 @@ mehmetkuru.dev'in kurduğu yapay zekâ ajanı Meta ve Google Ads verilerinizi d�
 
 - Proje: [mehmetkuru.dev](https://mehmetkuru.dev/) · Lisans: belirtilmemiş
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/claude-ile-reklam-ekibi/](https://mehmetkuru.dev/kaynaklar/claude-ile-reklam-ekibi/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/SjhoeqCnvGA)
 
 <a id="marketing-skills"></a>
 
@@ -953,6 +960,7 @@ Meta'nın açık betadaki resmi yapay zekâ bağlayıcıları: kod ya da gelişt
 
 - Proje: [facebook.com](https://www.facebook.com/business/news/meta-ads-ai-connectors) · Lisans: belirtilmemiş · Ücretsiz
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/meta-ads-ai-connectors/](https://mehmetkuru.dev/kaynaklar/meta-ads-ai-connectors/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/OI4lvRZpU28)
 
 <a id="umami"></a>
 
@@ -984,6 +992,7 @@ Açık ajan becerileri ekosisteminin dizini skills.sh; becerileri kurulum sayıl
 
 - Proje: [skills.sh](https://skills.sh) · Lisans: belirtilmemiş · Ücretsiz
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/skills-sh/](https://mehmetkuru.dev/kaynaklar/skills-sh/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/u7wEaWlhHuM)
 
 <a id="awesome-claude-skills"></a>
 
@@ -1013,15 +1022,17 @@ Popüler SaaS ürünlerinin açık kaynak alternatiflerini yıldız, güncelleme
 
 - Proje: [openalternative.co](https://openalternative.co) · Lisans: belirtilmemiş · Ücretsiz
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/openalternative/](https://mehmetkuru.dev/kaynaklar/openalternative/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/2Da93khl7r4)
 
 <a id="google-ai-boost-bites"></a>
 
-### Google AI Boost Bites: 10 Dakikalık Ücretsiz Yapay Zekâ Eğitim Videoları
+### Google AI Boost Bites: 10 Dakikalık Yapay Zekâ Eğitim Videoları
 
-Google'ın ücretsiz AI Boost Bites serisi; Gemini, NotebookLM ve Veo ile içerik üretimi, pazar araştırması ve otomasyonu 10 dakikalık derslerle öğretir.
+Google'ın AI Boost Bites serisi; Gemini, Workspace ve Gemini Canvas ile içerik üretimi, araştırma ve otomasyonu 10 dakikalık uygulamalı derslerle öğretir.
 
 - Proje: [skills.google](https://www.skills.google/paths/2480) · Lisans: belirtilmemiş · Ücretsiz
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/google-ai-boost-bites/](https://mehmetkuru.dev/kaynaklar/google-ai-boost-bites/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/4X1Neg-cRfY)
 
 <a id="nano-banana-istem-rehberi"></a>
 
@@ -1031,6 +1042,7 @@ Google Cloud'un resmi Nano Banana rehberi; konu, eylem, mekân, kompozisyon ve s
 
 - Proje: [cloud.google.com](https://cloud.google.com/blog/products/ai-machine-learning/ultimate-prompting-guide-for-nano-banana) · Lisans: belirtilmemiş · Ücretsiz
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/nano-banana-istem-rehberi/](https://mehmetkuru.dev/kaynaklar/nano-banana-istem-rehberi/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/1jtFc63fvqg)
 
 <a id="generative-ai-for-beginners"></a>
 
@@ -1086,4 +1098,4 @@ Her yapay zekâ sohbet aracında işe yarayan topluluk istemleri, ücretsiz etki
 
 Bu depo yalnız bağlantı ve kısa özet içerir. Projeler kendi sahiplerine aittir ve kendi lisanslarıyla dağıtılır. Liste her gün mehmetkuru.dev verisinden otomatik güncellenir.
 
-Son veri güncellemesi: 2026-11-08 · [github.com/ByMehmetKURUDev/kaynaklar](https://github.com/ByMehmetKURUDev/kaynaklar)
+Son veri güncellemesi: 2026-11-17 · [github.com/ByMehmetKURUDev/kaynaklar](https://github.com/ByMehmetKURUDev/kaynaklar)

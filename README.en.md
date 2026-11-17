@@ -188,6 +188,7 @@ Anthropic's official Claude package for small businesses with ready workflows an
 
 - Project: [claude.com](https://claude.com/solutions/small-business) · License: not specified
 - Guide: [mehmetkuru.dev/en/kaynaklar/claude-for-small-business/](https://mehmetkuru.dev/en/kaynaklar/claude-for-small-business/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/eok9CUhKUis)
 
 <a id="markitdown"></a>
 
@@ -221,12 +222,13 @@ Official example servers maintained by the MCP steering group—Fetch, Filesyste
 
 <a id="smithery"></a>
 
-### Smithery: An MCP Platform That Connects AI Agents to Thousands of Tools
+### Smithery: A Public Directory of MCP Servers for AI Agents
 
-Smithery lists thousands of MCP servers and handles authentication and sessions for you—a shortcut to giving your agent new tools.
+Smithery, the public MCP server directory, is now part of Arcade; since 31 October 2026 you connect to servers through each tool's own official MCP URL.
 
 - Project: [smithery.ai](https://smithery.ai) · License: not specified · Free
 - Guide: [mehmetkuru.dev/en/kaynaklar/smithery/](https://mehmetkuru.dev/en/kaynaklar/smithery/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/H4FPosIxdQk)
 
 <a id="mcp-market"></a>
 
@@ -236,6 +238,7 @@ A free directory that sorts tens of thousands of MCP servers and agent skills co
 
 - Project: [mcpmarket.com](https://mcpmarket.com) · License: not specified · Free
 - Guide: [mehmetkuru.dev/en/kaynaklar/mcp-market/](https://mehmetkuru.dev/en/kaynaklar/mcp-market/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/nU68_oV8MUg)
 
 <a id="codegraph"></a>
 
@@ -461,6 +464,7 @@ Google Labs' AI-powered UI tool Stitch generates editable web and mobile screen 
 
 - Project: [stitch.withgoogle.com](https://stitch.withgoogle.com) · License: not specified · Free
 - Guide: [mehmetkuru.dev/en/kaynaklar/google-stitch/](https://mehmetkuru.dev/en/kaynaklar/google-stitch/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/qVXy9n64VPM)
 
 <a id="motion-framer-motion"></a>
 
@@ -490,6 +494,7 @@ Running free on Hugging Face, Finegrain Image Enhancer turns low-resolution phot
 
 - Project: [huggingface.co](https://huggingface.co/spaces/finegrain/finegrain-image-enhancer) · License: not specified · Free
 - Guide: [mehmetkuru.dev/en/kaynaklar/finegrain-image-enhancer/](https://mehmetkuru.dev/en/kaynaklar/finegrain-image-enhancer/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/WiTw1KImvyE)
 
 <a id="shadcn-ui"></a>
 
@@ -681,6 +686,7 @@ NVIDIA's model catalogue gives Developer Program members free NIM API access for
 
 - Project: [build.nvidia.com](https://build.nvidia.com) · License: not specified · Free
 - Guide: [mehmetkuru.dev/en/kaynaklar/nvidia-build/](https://mehmetkuru.dev/en/kaynaklar/nvidia-build/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/gJZBbfO5D2I)
 
 <a id="llmfit"></a>
 
@@ -934,6 +940,7 @@ An AI agent set up by mehmetkuru.dev that regularly analyses your Meta and Googl
 
 - Project: [mehmetkuru.dev](https://mehmetkuru.dev/) · License: not specified
 - Guide: [mehmetkuru.dev/en/kaynaklar/claude-ile-reklam-ekibi/](https://mehmetkuru.dev/en/kaynaklar/claude-ile-reklam-ekibi/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/SjhoeqCnvGA)
 
 <a id="marketing-skills"></a>
 
@@ -953,6 +960,7 @@ Meta's official AI connectors in open beta: manage Meta ad reports and campaigns
 
 - Project: [facebook.com](https://www.facebook.com/business/news/meta-ads-ai-connectors) · License: not specified · Free
 - Guide: [mehmetkuru.dev/en/kaynaklar/meta-ads-ai-connectors/](https://mehmetkuru.dev/en/kaynaklar/meta-ads-ai-connectors/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/OI4lvRZpU28)
 
 <a id="umami"></a>
 
@@ -984,6 +992,7 @@ skills.sh is the open agent skills directory: it ranks skills by installs and le
 
 - Project: [skills.sh](https://skills.sh) · License: not specified · Free
 - Guide: [mehmetkuru.dev/en/kaynaklar/skills-sh/](https://mehmetkuru.dev/en/kaynaklar/skills-sh/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/u7wEaWlhHuM)
 
 <a id="awesome-claude-skills"></a>
 
@@ -1013,15 +1022,17 @@ A directory listing open-source alternatives to everyday SaaS products with star
 
 - Project: [openalternative.co](https://openalternative.co) · License: not specified · Free
 - Guide: [mehmetkuru.dev/en/kaynaklar/openalternative/](https://mehmetkuru.dev/en/kaynaklar/openalternative/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/2Da93khl7r4)
 
 <a id="google-ai-boost-bites"></a>
 
-### Google AI Boost Bites: Free AI Training Videos Under 10 Minutes
+### Google AI Boost Bites: 10-Minute AI Training Videos
 
-Google's free AI Boost Bites series teaches content creation, market research and automation with Gemini, NotebookLM and Veo in lessons under 10 minutes.
+Google's AI Boost Bites teaches content creation, research and automation with Gemini, Workspace and Gemini Canvas in 10-minute hands-on lessons.
 
 - Project: [skills.google](https://www.skills.google/paths/2480) · License: not specified · Free
 - Guide: [mehmetkuru.dev/en/kaynaklar/google-ai-boost-bites/](https://mehmetkuru.dev/en/kaynaklar/google-ai-boost-bites/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/4X1Neg-cRfY)
 
 <a id="nano-banana-istem-rehberi"></a>
 
@@ -1031,6 +1042,7 @@ Google Cloud's official Nano Banana guide teaches sharper image generation and e
 
 - Project: [cloud.google.com](https://cloud.google.com/blog/products/ai-machine-learning/ultimate-prompting-guide-for-nano-banana) · License: not specified · Free
 - Guide: [mehmetkuru.dev/en/kaynaklar/nano-banana-istem-rehberi/](https://mehmetkuru.dev/en/kaynaklar/nano-banana-istem-rehberi/)
+- Video: [YouTube Shorts](https://youtube.com/shorts/1jtFc63fvqg)
 
 <a id="generative-ai-for-beginners"></a>
 
@@ -1086,4 +1098,4 @@ More than 500 hands-on lessons in 20 phases; each produces a prompt, skill, agen
 
 This repository only contains links and short summaries. Each project belongs to its owners and is distributed under its own license. The list is updated daily from mehmetkuru.dev data.
 
-Data last updated: 2026-11-08 · [github.com/ByMehmetKURUDev/kaynaklar](https://github.com/ByMehmetKURUDev/kaynaklar)
+Data last updated: 2026-11-17 · [github.com/ByMehmetKURUDev/kaynaklar](https://github.com/ByMehmetKURUDev/kaynaklar)
