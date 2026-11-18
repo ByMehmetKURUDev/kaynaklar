@@ -570,7 +570,7 @@ Açık kaynak Lenis; tarayıcının yerel kaydırmasını koruyarak akıcı kayd
 
 ### three.js: Web Sitelerinde 3D Grafik İçin Açık Kaynak JavaScript Kütüphanesi
 
-Açık kaynak three.js; tarayıcıda WebGL ve WebGPU ile 3D sahne, ürün görselleştirme ve etkileşimli deneyimler kurmak için en yaygın JavaScript kütüphanesi.
+Açık kaynak three.js; tarayıcıda WebGL ve WebGPU ile 3D sahne, ürün görselleştirme ve etkileşimli deneyimler için yaygın kullanılan JavaScript kütüphanesi.
 
 - Proje: [mrdoob/three.js](https://github.com/mrdoob/three.js) · Lisans: MIT · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/threejs/](https://mehmetkuru.dev/kaynaklar/threejs/)
@@ -630,7 +630,7 @@ React Three Fiber ve WebGPU ile yazılmış Pascal Editor; tarayıcıda 3D bina 
 
 ### Impeccable: Yapay Zekâ Ajanlarına Ön Yüz Tasarım Disiplini Kazandıran Beceri ve Denetleyici
 
-Paul Bakaus'un açık kaynak tasarım becerisi; 24 komut ve 61 kurallı denetleyiciyle yapay zekâ arayüzlerindeki şablon görünümünü yakalayıp düzeltir.
+Paul Bakaus'un açık kaynak tasarım becerisi; 24 komut ve 60'ı aşkın kurallı denetleyiciyle yapay zekâ arayüzlerindeki şablon görünümünü yakalayıp düzeltir.
 
 - Proje: [pbakaus/impeccable](https://github.com/pbakaus/impeccable) · Lisans: Apache-2.0 · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/impeccable/](https://mehmetkuru.dev/kaynaklar/impeccable/)
@@ -642,7 +642,7 @@ Paul Bakaus'un açık kaynak tasarım becerisi; 24 komut ve 61 kurallı denetley
 
 Tek cümlelik bir tariften ya da bir kod deposundan etkileşimli mimari diyagramı üreten açık kaynak beceri; çıktı tek dosyalık HTML'dir, PNG olarak da alınır.
 
-- Proje: [tt-a1i/archify](https://github.com/tt-a1i/archify) · Lisans: MIT · Ücretsiz · Açık kaynak
+- Proje: [tt-a1i/archify](https://github.com/tt-a1i/archify) · Lisans: Apache-2.0 · Ücretsiz · Açık kaynak
 - Türkçe rehber: [mehmetkuru.dev/kaynaklar/archify/](https://mehmetkuru.dev/kaynaklar/archify/)
 - Video: [YouTube Shorts](https://youtube.com/shorts/7Z-7F6HeGII)
 

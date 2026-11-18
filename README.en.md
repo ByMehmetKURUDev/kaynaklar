@@ -570,7 +570,7 @@ Open-source Lenis adds smooth scrolling while keeping native browser scroll, and
 
 ### three.js: The Open-Source JavaScript Library for 3D Graphics on Websites
 
-Open-source three.js is the go-to JavaScript library for building 3D scenes, product visualisations and interactive experiences with WebGL and WebGPU.
+Open-source three.js is a widely used JavaScript library for building 3D scenes, product visualisations and interactive experiences with WebGL and WebGPU.
 
 - Project: [mrdoob/three.js](https://github.com/mrdoob/three.js) · License: MIT · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/threejs/](https://mehmetkuru.dev/en/kaynaklar/threejs/)
@@ -630,7 +630,7 @@ Built with React Three Fiber and WebGPU, Pascal Editor models 3D buildings and i
 
 ### Impeccable: A Design Skill and Detector That Gives AI Agents Frontend Design Discipline
 
-Paul Bakaus's open-source design skill uses 24 commands and a 61-rule detector to catch and fix the generic, templated look of AI-built interfaces.
+Paul Bakaus's open-source design skill uses 24 commands and a detector with more than 60 rules to catch and fix the generic, templated look of AI-built interfaces.
 
 - Project: [pbakaus/impeccable](https://github.com/pbakaus/impeccable) · License: Apache-2.0 · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/impeccable/](https://mehmetkuru.dev/en/kaynaklar/impeccable/)
@@ -642,7 +642,7 @@ Paul Bakaus's open-source design skill uses 24 commands and a 61-rule detector t
 
 Open-source skill that builds an interactive architecture diagram from a one-line description or a code repository; output is a single HTML file, also as PNG.
 
-- Project: [tt-a1i/archify](https://github.com/tt-a1i/archify) · License: MIT · Free · Open source
+- Project: [tt-a1i/archify](https://github.com/tt-a1i/archify) · License: Apache-2.0 · Free · Open source
 - Guide: [mehmetkuru.dev/en/kaynaklar/archify/](https://mehmetkuru.dev/en/kaynaklar/archify/)
 - Video: [YouTube Shorts](https://youtube.com/shorts/7Z-7F6HeGII)
 
